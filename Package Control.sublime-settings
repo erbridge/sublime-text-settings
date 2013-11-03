@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"Autoprefixer",
+		"Generic Config",
+		"Markdown Extended",
+		"Protocol Buffer Syntax",
+		"Python Improved",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeGit",
+		"SublimeREPL"
+	]
+}
