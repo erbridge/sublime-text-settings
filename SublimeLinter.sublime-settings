@@ -1,0 +1,34 @@
+{
+    "sublimelinter_mark_style": "outline",
+    "jshint_options":
+    {
+        "bitwise": true,
+        "camelcase": true,
+        "curly": true,
+        "forin": true,
+        "freeze": true,
+        "immed": true,
+        "latedef": "nofunc",
+        "newcap": true,
+        "noarg": true,
+        "nonew": true,
+        "quotmark": "double",
+        "undef": true,
+        "unused": true,
+        "strict": true,
+        "trailing": true,
+        "regexdash": true,
+        "evil": false,
+        "sub": false,
+        "browser": true,
+        "jquery": true,
+        "wsh": false
+    },
+    "csslint_options":
+    {
+        "compatible-vendor-prefixes": false,
+        "known-properties": "warning"
+    },
+    "pyflakes_ignore_import_*": false,
+    "sublimelinter_notes": true
+}
