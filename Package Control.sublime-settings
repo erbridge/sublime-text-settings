@@ -3,6 +3,7 @@
 	[
 		"AutoPEP8",
 		"Autoprefixer",
+		"BracketHighlighter",
 		"Cucumber",
 		"Generic Config",
 		"Markdown Extended",
