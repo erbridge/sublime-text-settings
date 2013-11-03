@@ -3,6 +3,7 @@
 	[
 		"AutoPEP8",
 		"Autoprefixer",
+		"Cucumber",
 		"Generic Config",
 		"Markdown Extended",
 		"Protocol Buffer Syntax",
