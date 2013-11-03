@@ -10,6 +10,7 @@
 		"SideBarEnhancements",
 		"sublime-github",
 		"SublimeGit",
-		"SublimeREPL"
+		"SublimeREPL",
+		"Unity3D Build System"
 	]
 }
