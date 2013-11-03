@@ -1,7 +1,7 @@
 {
 	"installed_packages":
 	[
-		"Abacus",
+		"Alignment",
 		"AutoPEP8",
 		"Autoprefixer",
 		"BracketHighlighter",
