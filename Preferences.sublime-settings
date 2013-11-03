@@ -2,6 +2,7 @@
 	"auto_close_tags": true,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"drag_text": false,
 	"enable_telemetry": true,
