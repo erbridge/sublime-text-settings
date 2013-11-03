@@ -6,6 +6,7 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Cucumber",
+		"EditorConfig",
 		"Generic Config",
 		"Markdown Extended",
 		"Protocol Buffer Syntax",
