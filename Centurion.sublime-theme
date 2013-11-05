@@ -50,6 +50,26 @@
     },
 
 //
+// SIDEBAR - OPEN FILE ICONS
+//
+
+    // Sidebar file close
+    {
+        "class": "close_button",
+        "layer0.texture": "",
+        "layer0.opacity": 0,
+        "layer0.inner_margin": 0,
+        "layer0.tint": [126,221,138],
+        "content_margin": [8,8]
+    },
+    {
+        "class": "close_button",
+        "parents": [{"class": "tree_row","attributes": ["hover"]}],
+        "layer0.opacity": 1,
+        "layer0.texture": "Theme - Centurion/Centurion/cross.png"
+    },
+
+//
 // QUICK PANEL
 //
 
