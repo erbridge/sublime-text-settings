@@ -1,11 +1,4 @@
 {
-    "extensions":
-    [
-        "md",
-        "mdown",
-        "txt"
-    ],
-
     "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
 
     "font_face": "",
