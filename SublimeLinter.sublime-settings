@@ -21,7 +21,7 @@
         "evil": false,
         "sub": false,
         "browser": true,
-        "jquery": true,
+        "jquery": false,
         "wsh": false
     },
     "csslint_options":
