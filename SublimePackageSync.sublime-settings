@@ -1,10 +1,16 @@
 {
     "sync_repos": {
+        "SublimeLinter": {
+            "remotes": {
+                "origin": "git@github.com:erbridge/SublimeLinter.git"
+            },
+            "object_to_checkout": "origin/sublime-text-3"
+        },
         "Terminal": {
             "remotes": {
                 "origin": "git@github.com:erbridge/sublime_terminal.git"
             },
-            "object_to_checkout": "origin/master"  // This can be any git object usable as an argument to git checkout.
+            "object_to_checkout": "origin/master"
         }
     },
 
