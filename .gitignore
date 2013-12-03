@@ -1,5 +1,5 @@
 .DS_Store
-Package Control.cache
+*.cache
 Package Control.last-run
 Package Control.system-ca-bundle
 linters

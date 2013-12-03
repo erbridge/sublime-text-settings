@@ -1,0 +1,20 @@
+{
+    "sync_repos": {
+        "SublimeLinter": {
+            "remotes": {
+                "origin": "git@github.com:erbridge/SublimeLinter.git"
+            },
+            "object_to_checkout": "origin/sublime-text-3"
+        },
+        "Terminal": {
+            "remotes": {
+                "origin": "git@github.com:erbridge/sublime_terminal.git"
+            },
+            "object_to_checkout": "origin/master"
+        }
+    },
+
+    "auto_sync_ignore": [
+        "SublimePackageSync"
+    ]
+}
