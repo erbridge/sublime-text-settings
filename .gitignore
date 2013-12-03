@@ -5,3 +5,4 @@ Package Control.system-ca-bundle
 linters
 .SublimeREPLHistory
 ColorPicker
+.sass-cache
