@@ -2,7 +2,6 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"All Autocomplete",
 		"AutoPEP8",
 		"Autoprefixer",
 		"BracketHighlighter",
@@ -23,14 +22,11 @@
 		"Protocol Buffer Syntax",
 		"Python Improved",
 		"SideBarEnhancements",
-		"sublime-github",
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeREPL",
-		"SurroundWith",
 		"Theme - Centurion",
-		"Underscorejs snippets",
 		"Unity3D Build System"
 	]
 }

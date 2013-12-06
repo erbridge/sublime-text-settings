@@ -1,13 +1,4 @@
 [
     // Modific
     { "keys": ["ctrl+alt+shift+d"], "command": "show_diff" },
-
-    // SurroundWith
-    { "keys": ["alt+shift+w"], "command": "surround_with", "args": { "action": "while" } },
-    { "keys": ["alt+shift+f"], "command": "surround_with", "args": { "action": "for" } },
-    { "keys": ["alt+shift+t"], "command": "surround_with", "args": { "action": "try" } },
-    { "keys": ["alt+shift+u"], "command": "surround_with", "args": { "action": "dowhile" } },
-    { "keys": ["alt+shift+i"], "command": "surround_with", "args": { "action": "if" } },
-    { "keys": ["alt+shift+e"], "command": "surround_with", "args": { "action": "ifelse" } },
-    { "keys": ["alt+shift+d"], "command": "surround_with", "args": { "action": "div" } }
 ]
