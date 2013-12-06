@@ -2,7 +2,6 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"All Autocomplete",
 		"AutoPEP8",
 		"Autoprefixer",
 		"BracketHighlighter",
@@ -20,21 +19,20 @@
 		"Monokai Gray",
 		"Open URL",
 		"PackageResourceViewer",
+		"Prolog",
 		"Protocol Buffer Syntax",
 		"Python Improved",
 		"Sass",
 		"SASS Build",
 		"SassBeautify",
 		"SideBarEnhancements",
-		"sublime-github",
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeOnSaveBuild",
 		"SublimeREPL",
-		"SurroundWith",
+		"Syntax Highlighting for Sass",
 		"Theme - Centurion",
-		"Underscorejs snippets",
 		"Unity3D Build System"
 	]
 }
