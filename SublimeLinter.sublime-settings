@@ -1,34 +1,51 @@
 {
-    "sublimelinter_mark_style": "outline",
-    "jshint_options":
-    {
-        "bitwise": true,
-        "camelcase": true,
-        "curly": true,
-        "forin": true,
-        "freeze": true,
-        "immed": true,
-        "latedef": "nofunc",
-        "newcap": true,
-        "noarg": true,
-        "nonew": true,
-        "quotmark": "double",
-        "undef": true,
-        "unused": true,
-        "strict": true,
-        "trailing": true,
-        "regexdash": true,
-        "evil": false,
-        "sub": false,
-        "browser": true,
-        "jquery": false,
-        "wsh": false
-    },
-    "csslint_options":
-    {
-        "compatible-vendor-prefixes": false,
-        "known-properties": "warning"
-    },
-    "pyflakes_ignore_import_*": false,
-    "sublimelinter_notes": true
+    "user": {
+        "debug": false,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Danish Royalty/Danish Royalty.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "background",
+        "linters": {
+            "flake8": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "pep257": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "mark_style": "outline",
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "show_errors_on_save": true,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "php": "html"
+        },
+        "warning_color": "DDB700",
+        "wrap_find": true
+    }
 }
