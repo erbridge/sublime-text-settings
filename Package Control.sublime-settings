@@ -32,6 +32,7 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-pep257",

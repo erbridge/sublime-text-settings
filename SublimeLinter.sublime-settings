@@ -26,6 +26,11 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "tidy": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
