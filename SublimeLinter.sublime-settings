@@ -10,6 +10,15 @@
             "flake8": {
                 "@disable": false,
                 "args": [],
+                "excludes": [],
+                "ignore": "",
+                "max-complexity": -1,
+                "max-line-length": null,
+                "select": ""
+            },
+            "htmltidy": {
+                "@disable": false,
+                "args": [],
                 "excludes": []
             },
             "jshint": {
@@ -23,11 +32,6 @@
                 "excludes": []
             },
             "pep257": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
-            "tidy": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
