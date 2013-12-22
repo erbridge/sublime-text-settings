@@ -1,4 +1,5 @@
 {
     "format_on_save": true,
-    "file_menu_search_depth": 10
+    "file_menu_search_depth": 10,
+    "syntax_list": ["Python", "PythonImproved"]
 }
