@@ -52,7 +52,8 @@
         "show_errors_on_save": true,
         "show_marks_in_minimap": true,
         "syntax_map": {
-            "php": "html"
+            "php": "html",
+            "pythonimproved": "python"
         },
         "warning_color": "DDB700",
         "wrap_find": true
