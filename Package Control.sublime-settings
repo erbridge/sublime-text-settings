@@ -1,10 +1,10 @@
 {
 	"installed_packages":
 	[
-		"Appealr",
 		"AutoPEP8",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"Ciapre Color Scheme",
 		"Color Schemes by carlcalderon",
 		"ColorPicker",
 		"Cucumber",
@@ -12,13 +12,15 @@
 		"Edit Preferences",
 		"EditorConfig",
 		"FindKeyConflicts",
-		"Future Funk - Color Scheme",
 		"Generic Config",
 		"Goto Documentation",
+		"HTML5",
 		"MarkdownEditing",
 		"Modific",
+		"Molokai-Pastel",
 		"Monokai Gray",
 		"Move By Symbols",
+		"Nocturnal Color Scheme",
 		"Open URL",
 		"PackageResourceViewer",
 		"Prolog",
@@ -35,6 +37,7 @@
 		"SublimeLinter",
 		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-pep257",
@@ -42,6 +45,9 @@
 		"SublimeREPL",
 		"Syntax Highlighting for Sass",
 		"Theme - Centurion",
+		"Theme - Spacegray",
+		"TodoReview",
+		"ToggleQuotes",
 		"Unity3D Build System",
 		"VAlign"
 	]
