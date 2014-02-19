@@ -4,7 +4,9 @@
         "FIXME": "FIXME[\\s]*?:+(?P<fixme>.*)$"
     },
     "exclude_folders": [
-        ".git"
+        ".git",
+        "node_modules",
+        ".bundler"
     ],
     "exclude_files": [],
     "case_sensitive": false
