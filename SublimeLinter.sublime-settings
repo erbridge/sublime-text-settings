@@ -17,6 +17,7 @@
 				"args":
 				[
 				],
+				"builtins": "",
 				"excludes":
 				[
 				],
@@ -108,7 +109,11 @@
 		"show_marks_in_minimap": true,
 		"syntax_map":
 		{
+			"html (django)": "html",
+			"html (rails)": "html",
+			"html 5": "html",
 			"php": "html",
+			"python django": "python",
 			"pythonimproved": "python"
 		},
 		"warning_color": "DDB700",
