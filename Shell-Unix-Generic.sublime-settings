@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"xcconfig"
+		"xcconfig",
+		"zsh-theme"
 	]
 }
