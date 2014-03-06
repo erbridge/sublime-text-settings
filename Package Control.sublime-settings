@@ -1,7 +1,8 @@
 {
 	"installed_packages":
 	[
-		"AutoPEP8",
+		"Anaconda",
+		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"C Improved",
@@ -16,6 +17,7 @@
 		"Edit Preferences",
 		"EditorConfig",
 		"FindKeyConflicts",
+		"Function Name Display",
 		"Generic Config",
 		"Goto Documentation",
 		"HTML5",
@@ -40,12 +42,10 @@
 		"SublimeCodeIntel",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-pep257",
 		"SublimeOnSaveBuild",
 		"SublimeREPL",
 		"Syntax Highlighting for Sass",
