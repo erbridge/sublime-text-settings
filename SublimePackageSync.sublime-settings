@@ -1,5 +1,11 @@
 {
     "sync_repos": {
+        "CodeWrapper": {
+            "remotes": {
+                "origin": "git@github.com:erbridge/CodeWrapper.git"
+            },
+            "object_to_checkout": "origin/master"
+        },
         "Terminal": {
             "remotes": {
                 "origin": "git@github.com:erbridge/sublime_terminal.git"
