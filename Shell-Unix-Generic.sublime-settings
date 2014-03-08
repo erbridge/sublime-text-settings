@@ -2,6 +2,7 @@
 	"extensions":
 	[
 		"xcconfig",
-		"zsh-theme"
+		"zsh-theme",
+		".zshrc"
 	]
 }
