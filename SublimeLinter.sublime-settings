@@ -7,6 +7,18 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "annotations": {
+                "@disable": false,
+                "args": [],
+                "errors": [
+                    "FIXME"
+                ],
+                "excludes": [],
+                "warnings": [
+                    "TODO",
+                    "README"
+                ]
+            },
             "htmltidy": {
                 "@disable": false,
                 "args": [],
@@ -25,6 +37,12 @@
             "json": {
                 "@disable": false,
                 "args": [],
+                "excludes": []
+            },
+            "shellcheck": {
+                "@disable": false,
+                "args": [],
+                "exclude": "",
                 "excludes": []
             }
         },
