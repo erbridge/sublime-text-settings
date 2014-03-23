@@ -11,5 +11,33 @@
             "--unpad-paren",
             "--close-templates"
         ]
+    },
+
+    "options_c": {
+        "use_only_additional_options": false,
+        "additional_options_file": "",
+        "additional_options": [
+            "--indent-switches",
+            "--indent-namespaces",
+            "--break-blocks",
+            "--unpad-paren",
+            "--align-pointer=type",
+            "--align-reference=type",
+            "--close-templates"
+        ]
+    },
+
+    "options_c++": {
+        "use_only_additional_options": false,
+        "additional_options_file": "",
+        "additional_options": [
+            "--indent-switches",
+            "--indent-namespaces",
+            "--break-blocks",
+            "--unpad-paren",
+            "--align-pointer=type",
+            "--align-reference=type",
+            "--close-templates"
+        ]
     }
 }
