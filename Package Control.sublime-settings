@@ -46,6 +46,7 @@
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-cppcheck",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",

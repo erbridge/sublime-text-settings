@@ -19,6 +19,23 @@
                     "README"
                 ]
             },
+            "cppcheck": {
+                "@disable": false,
+                "args": [],
+                "enable": [
+                    "error",
+                    "warning",
+                    "style",
+                    "unusedFunction",
+                    "performance",
+                    "portability",
+                    "informational"
+                ],
+                "excludes": [],
+                "std": [
+                    "c11"
+                ]
+            },
             "htmltidy": {
                 "@disable": false,
                 "args": [],
